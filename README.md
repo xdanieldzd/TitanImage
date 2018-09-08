@@ -1,6 +1,6 @@
 Titan's Image
 =============
-__Titan's Image is an Etrian Odyssey IV STEX image converter for translation purposes, reading and writing PNG files and using JSON files for metadata.
+__Titan's Image__ is an Etrian Odyssey IV STEX image converter for translation purposes, reading and writing PNG files and using JSON files for metadata.
 
 Disclaimer
 ==========
